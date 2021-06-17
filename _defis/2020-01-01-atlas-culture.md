@@ -24,7 +24,7 @@ Cette ressource est destinée en priorité aux **responsables d’affaires cultu
 
 Librement accessible en ligne, cet atlas s’inscrit dans une démarche de **transparence** de la donnée publique. Les données seront ouvertes à l’été 2021 sur data.culture.gouv.fr et data.gouv.fr pour permettre leur réutilisation.
 
-## Étapes clés du défi
+### Étapes clés du défi
 
 - **Compréhension** du contexte et des futurs utilisateurs - Septembre-novembre 2020
 - **Idéation** : ateliers de co-conception - Novembre 2020
@@ -32,7 +32,7 @@ Librement accessible en ligne, cet atlas s’inscrit dans une démarche de **tra
 - **Mise en ligne** de la version beta - Été 2021
 - **Pérennisation** : internalisation du produit au ministère de la Culture - À partir de janvier 2022
 
-## Approche
+### Approche
 
 Notre équipe pluridisciplinaire EIG-Deps est en lien constant avec une communauté de futurs usagers et travaille en amélioration continue dans la perspective de proposer une solution qui aura la plus grande utilité et la meilleure expérience possible. Cela en parallèle d’une vision de long terme « fil rouge » de l’atlas : une ressource de référence pour les données publiques relatives à la culture.
 
